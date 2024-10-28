@@ -1,6 +1,6 @@
 name: a
 on:
-  push:
+  watch:
 jobs:
   job1:
     runs-on: ubuntu-latest
